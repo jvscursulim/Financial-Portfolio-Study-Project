@@ -1,4 +1,4 @@
-# Finance-portfolio-study
+# Financial-portfolio-study
 A personal study about ETL (extract, transform, load) and finance portoflio optimization using classical and quantum computing methods.
 
 # DISCLAIMER!
